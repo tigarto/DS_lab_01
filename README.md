@@ -1,2 +1,5 @@
-# DS_lab_01
-Repositorio con ejemplos del laboratorio de la sesion 01
+# Ejemplos lab 1
+
+* **Fecha**: 23/02/2026
+
+Aqui vamos a hacer unos cuantos ejemplos
